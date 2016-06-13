@@ -13,6 +13,7 @@ For more information:
 * Official Heron documentation located at [heronstreaming.io](http://heronstreaming.io)
 * [Twitter Heron: Stream Processing at
 * 
+* 
   Scale](http://dl.acm.org/citation.cfm?id=2742788) (academic paper)
 * [Twitter Heron: Stream Processing at
   Scale](https://www.youtube.com/watch?v=pUaFOuGgmco) (YouTube video)
