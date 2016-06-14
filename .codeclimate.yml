@@ -6,6 +6,12 @@ engines:
     enabled: true
     channel: "beta"
 
+exclude_paths:
+  - 3rdparty/
+  - integration-test/
+  - tools/
+  - vagrant/
+
 ratings:
   paths:
   - "**.java"
