@@ -8,10 +8,6 @@ successor of [Apache Storm](http://storm.apache.org), built to be backwards
 compatible with Storm's [topology API](http://storm.apache.org/releases/current/Tutorial.html#topologies)
 but with a wide array of architectural improvements.
 
-
-
-
-
 For more information:
 
 * Official Heron documentation located at [heronstreaming.io](http://heronstreaming.io)
